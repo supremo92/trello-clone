@@ -18,9 +18,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started with Cloudflare</h1>
+          <h1>Taskboard</h1>
           <p>
-            Edit <code>src/App.tsx</code> or <code>worker/index.ts</code> and save to test <code>HMR</code>
+            New project goes here
           </p>
         </div>
         <ul style={{ display: 'flex', gap: '1rem', listStyle: 'none', padding: 0 }}>
